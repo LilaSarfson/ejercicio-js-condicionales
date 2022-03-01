@@ -12,6 +12,6 @@ let usuario = "pepe";
 let password = "1995";
 
 /** NO TOCAR A PARTIR DE AQUÍ  */
-if (usuario == "pepa" && password == "1995") {
+if (usuario == "pepe" && password == "1995") {
     console.log("Credenciales correctas, bievenido/a!");
 }

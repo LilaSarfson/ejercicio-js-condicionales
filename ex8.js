@@ -9,7 +9,7 @@
 let nombre = "Alex";
 
 /**NO TOCAR A PARTIR DE AQUÍ */
-if (nombre != "Alex") {
+if (nombre != "Lila") {
     console.log("Tú NO eres Alex...")
 }
 
